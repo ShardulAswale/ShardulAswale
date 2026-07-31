@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shardul Aswale 👋</h1>
+<h1 align="center">Hi, I'm Shardul Aswale</h1>
 
 <p align="center">
   <strong>AI & Backend Engineer</strong><br>
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  London, UK · MSc Artificial Intelligence · 4+ years in software engineering
+  London, UK · MSc Artificial Intelligence · 4+ years as Software Engineer
 </p>
 
 <p align="center">
@@ -33,17 +33,18 @@ machine-learning pipelines.
 
 My recent work includes FastAPI services for AI chat and analytics, RAG
 workflows, DynamoDB-backed systems, LLM evaluation and containerised deployment
-on AWS. Previously, I developed React micro-frontends and Spring Boot APIs for
-enterprise retail systems used across more than 3,000 stores.
+on AWS. I'm also experienced with the MERN stack (MongoDB, Express, React,
+Node.js). Previously, I developed React micro-frontends and Spring Boot APIs
+for enterprise retail systems used across more than 3,000 stores.
 
 For my MSc Artificial Intelligence dissertation, I developed an explainable
 flight disruption prediction pipeline using large-scale aviation data,
 including 1.3 billion ADS-B records.
 
-- 🔭 Building reliable AI and backend systems with Python and FastAPI
-- 🧠 Interested in RAG, agent workflows, model evaluation and explainable ML
-- ⚙️ Comfortable across APIs, data pipelines, databases and cloud deployment
-- 📍 Based in London and open to AI, ML and Python backend opportunities
+- Building reliable AI and backend systems with Python and FastAPI
+- Interested in RAG, agent workflows, model evaluation and explainable ML
+- Comfortable across APIs, data pipelines, databases and cloud deployment
+- Based in London and open to AI, ML and Python backend opportunities
 
 ## Featured work
 
@@ -64,7 +65,7 @@ including 1.3 billion ADS-B records.
 - Delivered approximately **14.8 ms median model inference**
 - Helped support enterprise software used across **3,000+ retail stores**
 
-## 🧰 Skills & technologies
+## Skills & technologies
 
 ### AI, machine learning and LLMs
 
@@ -89,6 +90,7 @@ including 1.3 billion ADS-B records.
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets">
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" alt="REST APIs">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </p>
